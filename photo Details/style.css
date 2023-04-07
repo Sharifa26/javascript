@@ -1,0 +1,34 @@
+body {
+    display: flex;
+    align-items: center;
+    background-color: rgb(199, 202, 200)
+}
+
+.content {
+    align-items: center;
+    margin-left: 50px;
+    margin-right: 50px;
+    position: relative;
+}
+
+
+#pic {
+    margin-left: 300px;
+    width: 650px;
+    height: 70px;
+    border:5px solid rgb(10, 10, 10);
+    background-color: rgb(4, 50, 77);
+    background-repeat: no-repeat;
+    color:white;
+    background-size: 100%;
+    font-family: Didot;
+    font-size: 160%;
+    line-height: 60px;
+    text-align: center;
+}
+
+img {
+    width: 300px;
+    height: 200px;
+    border-radius: 20%;
+}
